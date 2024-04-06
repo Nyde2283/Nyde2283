@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyde2283
 - 👀 I’m interested in video games and code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning math, physics and theorical computer science (with C and OCaml) in MP2I at Clemenceau
 
 <!---
 Nyde2283/Nyde2283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
